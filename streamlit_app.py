@@ -57,6 +57,7 @@ st.sidebar.header(":material/collections_bookmark: リソース")
 st.sidebar.markdown("""
 - [Playground](https://www.streamlit.io/playground)
 - [Documentation](https://docs.streamlit.io/)
+- [フォーラム]("https://discuss.streamlit.io/c/lang/japan/31")
 - [書籍](https://techbookfest.org/product/fhiwFCAW3weeFibUeFc4p1?productVariantID=1m3McjcE7dvXzMZcwQDz8c) (Streamlit入門)
 """
 )
