@@ -12,7 +12,7 @@
 | Day | 内容 | 執筆者 |
 | --- | ---- | ----- |
 | [1日目](?day=1) | クリスマスカード編(その1)：Streamlit Playgroundとst.button | [Sakatoku](https://x.com/AkSakatoku) |
-| [2日目](?day=2) | TBD | TBD |
+| [2日目](?day=2) | クリスマスカード編(その2)：テキストやチェックボックスの入力と結果出力 | [kkida](https://x.com/kkkida_twtr) |
 | [3日目](?day=3) | TBD | TBD |
 | [4日目](?day=4) | TBD | TBD |
 | [5日目](?day=5) | TBD | TBD |
