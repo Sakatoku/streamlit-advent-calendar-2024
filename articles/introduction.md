@@ -11,30 +11,30 @@
 
 | Day | 内容 | 執筆者 |
 | --- | ---- | ----- |
-| [1日目](?day=1) | クリスマスカード編(その1)：Streamlit Playgroundとst.button | [Sakatoku](https://x.com/AkSakatoku) |
+| [1日目](?day=1) | クリスマスカード編(その1)：Streamlit Playgroundと最初のボタン | [Sakatoku](https://x.com/AkSakatoku) |
 | [2日目](?day=2) | クリスマスカード編(その2)：テキストやチェックボックスの入力と結果出力 | [kkida](https://x.com/kkkida_twtr) |
-| [3日目](?day=3) | TBD | TBD |
-| [4日目](?day=4) | TBD | TBD |
-| [5日目](?day=5) | TBD | TBD |
-| [6日目](?day=6) | TBD | TBD |
-| [7日目](?day=7) | TBD | TBD |
-| [8日目](?day=8) | TBD | TBD |
-| [9日目](?day=9) | TBD | TBD |
-| [10日目](?day=10) | TBD | TBD |
-| [11日目](?day=11) | TBD | TBD |
-| [12日目](?day=12) | TBD | TBD |
-| [13日目](?day=13) | TBD | TBD |
-| [14日目](?day=14) | TBD | TBD |
-| [15日目](?day=15) | TBD | TBD |
-| [16日目](?day=16) | TBD | TBD |
-| [17日目](?day=17) | TBD | TBD |
-| [18日目](?day=18) | TBD | TBD |
-| [19日目](?day=19) | TBD | TBD |
-| [20日目](?day=20) | TBD | TBD |
-| [21日目](?day=21) | TBD | TBD |
-| [22日目](?day=22) | TBD | TBD |
-| [23日目](?day=23) | TBD | TBD |
-| [24日目](?day=24) | TBD | TBD |
-| [25日目](?day=25) | TBD | TBD |
+| [3日目](?day=3) | クリスマスカード編(その3)：画像の表示 | TBD |
+| [4日目](?day=4) | クリスマスカード編(その4)：スライダーと動的な入力フォーム | TBD |
+| [5日目](?day=5) | データビジュアライズ編(その1)：ファイルアップローダとPandas | [Sakatoku](https://x.com/AkSakatoku) |
+| [6日目](?day=6) | データビジュアライズ編(その2) | [kkida](https://x.com/kkkida_twtr) |
+| [7日目](?day=7) | データビジュアライズ編(その3) | TBD |
+| [8日目](?day=8) | データビジュアライズ編(その4) | TBD |
+| [9日目](?day=9) | データビジュアライズ編(その5) | TBD |
+| [10日目](?day=10) | データビジュアライズ編のおまけ：色んなグラフを使ってみよう | TBD |
+| [11日目](?day=11) | ローカルPCでPythonとStreamlitを動かそう | TBD |
+| [12日目](?day=12) | クイズアプリ編(その1) | TBD |
+| [13日目](?day=13) | クイズアプリ編(その2) | TBD |
+| [14日目](?day=14) | クイズアプリ編(その3) | TBD |
+| [15日目](?day=15) | クイズアプリ編(その4) | TBD |
+| [16日目](?day=16) | クイズアプリ編(その5) | TBD |
+| [17日目](?day=17) | クイズアプリ編のおまけ：マルチページナビゲーション | TBD |
+| [18日目](?day=18) | クイズアプリ編のおまけ：作ったアプリをみんなに公開しよう | TBD |
+| [19日目](?day=19) | SnowflakeでStreamlitをもっと活用しよう | TBD |
+| [20日目](?day=20) | データベース・LLM編(その1) | TBD |
+| [21日目](?day=21) | データベース・LLM編(その2) | TBD |
+| [22日目](?day=22) | データベース・LLM編(その3) | TBD |
+| [23日目](?day=23) | データベース・LLM編(その4) | TBD |
+| [24日目](?day=24) | データベース・LLM編(その5) | TBD |
+| [25日目](?day=25) | 最終日 | TBD |
 
 さあ、さっそく初めてみましょう！
