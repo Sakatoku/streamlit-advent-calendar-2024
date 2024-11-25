@@ -12,6 +12,6 @@ login_id = st.selectbox(
 st.session_state.login_id = login_id
 
 # ログイン処理
-if login_id != "":
+if login_id:
     if st.button("クイズに挑戦する"):
         st.switch_page("pages/quiz_a.py")
