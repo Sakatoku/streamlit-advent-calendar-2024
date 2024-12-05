@@ -16,7 +16,7 @@
 | [3日目](?day=3) | クリスマスカード編(その3)：画像の表示 | TBD |
 | [4日目](?day=4) | クリスマスカード編(その4)：スライダーと動的な入力フォーム | TBD |
 | [5日目](?day=5) | データビジュアライズ編(その1)：ファイルアップローダとPandas | [Sakatoku](https://x.com/AkSakatoku) |
-| [6日目](?day=6) | データビジュアライズ編(その2) | [kkida](https://x.com/kkkida_twtr) |
+| [6日目](?day=6) | データビジュアライズ編(その2)：Pandasの集計とフィルタ、st.multiselect、st.metrics | [kkida](https://x.com/kkkida_twtr) |
 | [7日目](?day=7) | データビジュアライズ編(その3) | TBD |
 | [8日目](?day=8) | データビジュアライズ編(その4) | TBD |
 | [9日目](?day=9) | データビジュアライズ編(その5) | TBD |
