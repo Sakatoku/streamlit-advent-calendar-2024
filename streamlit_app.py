@@ -23,14 +23,38 @@ def update_day():
     # URLパラメータを更新
     st.query_params["day"] = st.session_state.article_id
 
+# ファイルを読み込んでバイナリデータを返す
+def read_file(filename):
+    with open(filename, "rb") as f:
+        return f.read()
+
 # ファイルを読み込んで表示する
 def show_article(article_id):
     filename = f"articles/{article_id}.md"
     if article_id == 0:
         filename = "articles/introduction.md"
     # articles/{artile_id}.md から記事を読み込んで、st.markdown() で表示する
+    buffer = ""
     with open(filename, "r", encoding="utf-8") as f:
-        st.markdown(f.read())
+        # 1行づつ読み込んでバッファに追加する
+        # !!<download>という行があれば、バッファの内容を表示してからクリアする。当該行の指定に従って st.download_button() を表示する
+        for line in f:
+            if line.startswith("!!<download>"):
+                if len(buffer) > 0:
+                    st.markdown(buffer)
+                    buffer = ""
+                # !!<download>{label}{source_filename}{download_filename}{mime_type} という形式で指定する
+                parts = line.split("{")
+                if len(parts) == 5:
+                    label = parts[1].replace("}", "")
+                    source_filename = parts[2].replace("}", "")
+                    download_filename = parts[3].replace("}", "")
+                    mime_type = parts[4].replace("}", "")
+                st.download_button(label=label, data=read_file(source_filename), file_name=download_filename, mime=mime_type)
+            else:
+                buffer += line
+        if len(buffer) > 0:
+            st.markdown(buffer)
 
 # ページ設定を変更
 st.set_page_config(
