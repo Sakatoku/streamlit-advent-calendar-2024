@@ -17,7 +17,7 @@
 | [4日目](?day=4) | クリスマスカード編(その4)：スライダーと動的な入力フォーム | Ishihara |
 | [5日目](?day=5) | データビジュアライズ編(その1)：ファイルアップローダとPandas | [Sakatoku](https://x.com/AkSakatoku) |
 | [6日目](?day=6) | データビジュアライズ編(その2)：Pandasの集計とフィルタ、st.multiselect、st.metrics | [kkida](https://x.com/kkkida_twtr) |
-| [7日目](?day=7) | データビジュアライズ編(その3) | TBD |
+| [7日目](?day=7) | データビジュアライズ編(その3)：Pandasのデータ変換(pivot, fillna)、Streamlitの可視化(caption、line_chart) | [Tatsumi](https://x.com/ttsmnyk) |
 | [8日目](?day=8) | データビジュアライズ編(その4) | TBD |
 | [9日目](?day=9) | データビジュアライズ編(その5) | TBD |
 | [10日目](?day=10) | データビジュアライズ編のおまけ：色んなグラフを使ってみよう | Ishihara |
